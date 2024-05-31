@@ -1,0 +1,1 @@
+mov eax, [0x1000] ; leer el valor de la dirección de memoria 0x1000
